@@ -1,3 +1,5 @@
+// https://github.com/bean8533/C-BitBoard-Game-Engine
+
 #ifndef BITBOARD_CHECKERS
 #define BITBOARD_CHECKERS
 

@@ -1,3 +1,5 @@
+// https://github.com/bean8533/C-BitBoard-Game-Engine
+
 #include <stdio.h>
 #include <stdlib.h>
 
